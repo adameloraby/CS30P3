@@ -105,7 +105,7 @@ public class Demo30P3 {
 		
 		JTextArea disp = new JTextArea();
 		disp.setBackground(new Color(0, 128, 192));
-		//disp.setLineWrap(true);
+		disp.setLineWrap(true);
 		disp.setWrapStyleWord(true);
 		 
 		JButton submit = new JButton("Submit");
