@@ -1,0 +1,4 @@
+Programming Assignment:
+1. Create a Java GUI.
+2. Load and display text from a file.
+3. Show the results in a scrollable area.
