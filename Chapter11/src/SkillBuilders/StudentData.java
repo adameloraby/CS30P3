@@ -23,6 +23,12 @@ public class StudentData extends JPanel {
         add(scoreField);
     }
 
+    /** Clears the text boxes before each new student entry */
+    public void reset() {
+        nameField.setText("");
+        scoreField.setText("");
+    }
+
     public JTextField getNameField() {
         return nameField;
     }

@@ -1,0 +1,18 @@
+Adam Eloraby
+Grade Level: 12
+Semester: 1
+Grades: 89.0, 95.0, 92.0, 86.0
+Average: 90.50%
+------------------------------
+Amar Eloraby
+Grade Level: 12
+Semester: 2
+Grades: 1.0, 2.0, 4.0, 5.0
+Average: 3.00%
+------------------------------
+Adam Eloraby
+Grade Level: 12
+Semester: 1
+Grades: 89.0, 95.0, 92.0, 86.0
+Average: 90.50%
+------------------------------

@@ -144,7 +144,8 @@ public class Statspart2of2 {
 		        	for (int i = 0; i < numStu; i++) 
 		        	{	
 		        		
-		        		
+		        		inputDialog.reset();
+
 		        		int result = JOptionPane.showConfirmDialog(null, inputDialog, 
 		                        "Enter data for Student " + (i + 1), 
 		                        JOptionPane.OK_CANCEL_OPTION);
