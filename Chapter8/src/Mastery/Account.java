@@ -1,3 +1,16 @@
+/*
+ 
+Program: Account.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Defines a general bank account with ID, balance, deposit,
+         withdrawal, equals(), and toString() methods.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+ 
+*/
+
 package Mastery;
 
 import java.text.NumberFormat;

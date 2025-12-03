@@ -1,3 +1,16 @@
+/*
+
+Program: AcctTester.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Tests the PersonalAcct and BusinessAcct classes by performing
+         deposits, withdrawals, and verifying minimum balance fees.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+
+*/
+
 package Mastery;
 
 public class AcctTester {

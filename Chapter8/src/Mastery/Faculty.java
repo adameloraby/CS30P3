@@ -1,3 +1,16 @@
+/*
+
+Program: Faculty.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Represents faculty employees; inherits UEmployee and stores
+         department information.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+
+*/
+
 package Mastery;
 
 public class Faculty extends UEmployee {

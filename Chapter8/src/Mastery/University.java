@@ -1,3 +1,16 @@
+/*
+
+Program: University.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Tests the UEmployee, Faculty, and Staff classes by creating
+         objects and displaying their information.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+
+*/
+
 package Mastery;
 
 public class University {

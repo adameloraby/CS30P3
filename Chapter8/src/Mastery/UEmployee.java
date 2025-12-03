@@ -1,3 +1,15 @@
+/*
+
+Program: UEmployee.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Base class for university employees containing name and salary.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+
+*/
+
 package Mastery;
 
 public class UEmployee {

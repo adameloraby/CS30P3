@@ -1,3 +1,15 @@
+/*
+ 
+Program: Customer.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Represents a bank customer with first and last name.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+ 
+*/
+
 package Mastery;
 public class Customer 
 {

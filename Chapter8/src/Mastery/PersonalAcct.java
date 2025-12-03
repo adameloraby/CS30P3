@@ -1,3 +1,16 @@
+/*
+
+Program: PersonalAcct.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Defines a personal bank account with a minimum balance of $100
+         and a $2 fee when the balance drops below minimum.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+
+*/
+
 package Mastery;
 
 public class PersonalAcct extends Account {

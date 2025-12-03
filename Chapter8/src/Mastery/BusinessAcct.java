@@ -1,3 +1,16 @@
+/*
+
+Program: BusinessAcct.java          Last Date of this Revision: December 3rd, 2025
+
+Purpose: Defines a business bank account with a minimum balance of $500
+         and a $10 fee when the balance drops below minimum.
+
+Author: Adam Eloraby  
+School: CHHS
+Course: Computer Programming 30 
+
+*/
+
 package Mastery;
 
 public class BusinessAcct extends Account {
