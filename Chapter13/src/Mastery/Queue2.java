@@ -1,4 +1,4 @@
-package SkillBuilders;
+package Mastery;
 
 public class Queue2 {
     private Object[] queue;
